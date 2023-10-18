@@ -1,0 +1,21 @@
+body {
+    background-color: #C1D8C3; /* Replace 'lightgray' with your preferred background color */
+}
+
+
+h3 {
+	color: green;
+	margin-left: 50px;
+}
+h2 {
+	color: black;
+}
+.member {
+	font-size: 20px;
+	color: red;
+}
+.role {
+	font-size: 20px;
+	color: black;
+}
+
